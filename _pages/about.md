@@ -6,11 +6,12 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>ZN 902a </p>
-    <p>11 Yuk Choi Rd, HungHom</p>
+    <p>ZN 902a, Block Z,</p>
+    <p>The Hong Kong Polytechnic University,</p>
+    <p>11 Yuk Choi Rd, HungHom,</p>
     <p>Hong Kong </p>
 
 news: true # includes a list of news items
